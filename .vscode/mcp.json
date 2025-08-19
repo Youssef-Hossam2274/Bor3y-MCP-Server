@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "Bor3y-mcp-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["build/server.js"]
+    }
+  }
+}
